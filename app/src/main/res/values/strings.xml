@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="action_settings">Set</string>
+    <string name="greetings">Hello Dear!!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_temp">temp</string>
+    <string name="secactname">SecondActivity</string>
+    <string-array name="arr1">
+        <item>template</item>
+        <item>skjdhfksg</item>
+        <item>susriuw</item>
+    </string-array>
+</resources>
