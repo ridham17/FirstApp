@@ -92,7 +92,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="Small hskj khfkjhsjhfkjshfjf"
+        android:text="Small hskj khfkjhsjhfkjshfjfs"
         android:id="@+id/textView4"
         android:layout_below="@+id/spinner"
         android:layout_alignParentLeft="true"
